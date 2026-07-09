@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/divyanshur0011/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1025-divisor-game](https://github.com/divyanshur0011/Leetcode/tree/master/1025-divisor-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyanshur0011/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/divyanshur0011/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/divyanshur0011/Leetcode/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/divyanshur0011/Leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
