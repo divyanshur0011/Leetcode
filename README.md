@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/divyanshur0011/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/divyanshur0011/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/divyanshur0011/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
