@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/divyanshur0011/Leetcode/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/divyanshur0011/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Array
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/divyanshur0011/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+## Sorting
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/divyanshur0011/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
