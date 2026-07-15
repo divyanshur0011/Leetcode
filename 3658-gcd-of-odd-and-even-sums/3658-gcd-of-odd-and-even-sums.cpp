@@ -1,20 +1,6 @@
 class Solution {
 public:
-int GCD(int a,int b)
-{
-    int n=min(a,b);
-    int c=1;
 
-    for (int i=2;i<=n;++i )
-    {
-        if (a%i==0 && b%i==0)
-        {
-            c=i;
-        }
-
-    }
-    return c;
-}
     int gcdOfOddEvenSums(int n) {
 
         int o=1;
@@ -31,7 +17,7 @@ int GCD(int a,int b)
             e=e+2;
             n--;
         }
-        int ans=GCD(ee,oo);
+        int ans=__gcd(ee,oo);
         return ans;
         
     }
