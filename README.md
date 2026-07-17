@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/divyanshur0011/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3340-check-balanced-string](https://github.com/divyanshur0011/Leetcode/tree/master/3340-check-balanced-string) |
 ## Geometry
 |  |
 | ------- |
