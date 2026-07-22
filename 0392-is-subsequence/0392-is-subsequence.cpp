@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isSubsequence(string s, string t) {
 
-        int arr[26]={0};
+       
         int cnt =0;
         int l=0;int r=t.size();
         for (int i=0;i<s.size();++i)
