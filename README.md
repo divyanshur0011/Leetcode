@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/divyanshur0011/Leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/divyanshur0011/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/divyanshur0011/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/divyanshur0011/Leetcode/tree/master/0392-is-subsequence) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/divyanshur0011/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/divyanshur0011/Leetcode/tree/master/3340-check-balanced-string) |
 ## Geometry
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/divyanshur0011/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
