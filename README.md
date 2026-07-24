@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/divyanshur0011/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/divyanshur0011/Leetcode/tree/master/0392-is-subsequence) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/divyanshur0011/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/divyanshur0011/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/divyanshur0011/Leetcode/tree/master/3340-check-balanced-string) |
 ## Geometry
