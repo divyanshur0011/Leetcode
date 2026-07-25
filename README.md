@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/divyanshur0011/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/divyanshur0011/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/divyanshur0011/Leetcode/tree/master/3340-check-balanced-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/divyanshur0011/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/divyanshur0011/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/divyanshur0011/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/divyanshur0011/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/divyanshur0011/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
