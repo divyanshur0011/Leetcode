@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/divyanshur0011/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshur0011/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyanshur0011/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/divyanshur0011/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshur0011/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/divyanshur0011/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyanshur0011/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/divyanshur0011/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/divyanshur0011/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshur0011/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
