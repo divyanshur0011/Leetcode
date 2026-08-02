@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/divyanshur0011/Leetcode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/divyanshur0011/Leetcode/tree/master/1037-valid-boomerang) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyanshur0011/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/divyanshur0011/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyanshur0011/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/divyanshur0011/Leetcode/tree/master/1037-valid-boomerang) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/divyanshur0011/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshur0011/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1037-valid-boomerang](https://github.com/divyanshur0011/Leetcode/tree/master/1037-valid-boomerang) |
 | [1260-shift-2d-grid](https://github.com/divyanshur0011/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshur0011/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyanshur0011/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
